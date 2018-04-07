@@ -1,0 +1,25 @@
+{
+  "name": "chipconsole",
+  "version": "1.0.0",
+  "description": "A web desktop for C.H.I.P computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the349/CHIPconsole.git"
+  },
+  "keywords": [
+    "web",
+    "desktop",
+    "chip",
+    "console"
+  ],
+  "author": "the349",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the349/CHIPconsole/issues"
+  },
+  "homepage": "https://github.com/the349/CHIPconsole#readme"
+}
